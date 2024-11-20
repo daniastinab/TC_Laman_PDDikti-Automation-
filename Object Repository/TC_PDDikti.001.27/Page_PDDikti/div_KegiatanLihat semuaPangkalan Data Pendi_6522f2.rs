@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KegiatanLihat semuaPangkalan Data Pendi_6522f2</name>
+   <tag></tag>
+   <elementGuidId>28943722-4b42-4a9f-9a2a-dd5cc79551cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>626542ca-b043-4ef0-98e4-86428123a1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-col max-w-7xl justify-center items-center mx-auto mt-8 mb-[-90px]</value>
+      <webElementGuid>c125c264-1236-4cf0-94fa-840a4aa52648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KegiatanLihat semuaPangkalan Data Pendidikan Tinggi Mengucapkan Selamat kepada pemenang Anugerah PDDikti 2023Baca selengkapnyaSelasa, 14 November 2023 PDDikti telah melaksanakan Workshop dan Asistensi Pelaporan Data Pangkalan Data Pendidikan Tinggi (PDDikti) Semester 2022/2023.Baca selengkapnyaMari simak lini masa MSIB Angkatan 6 pada unggahan di atas! Jangan lupa periksa kembali persyaratan pendaftaran dan segera daftarkan dirimu, ya!Baca selengkapnyaDitjen Diktiristek kembali membuka program Dana Padanan untuk tahun anggaran 2024 dan pada hari Rabu (25/10) Ditjen Diktiristek telah melangsungkan sosialisasi mengenai Program Dana Padanan tahun 2024.Baca selengkapnya</value>
+      <webElementGuid>0063d659-8073-4350-9c79-44e32ee71bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;flex-col max-w-7xl justify-center items-center mx-auto mt-8 mb-[-90px]&quot;]</value>
+      <webElementGuid>71b55659-e667-43cd-b4da-c3a6f0f01b38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div[7]</value>
+      <webElementGuid>e1c3bd47-0d95-4e75-bdef-2af1a7bb5276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[4]/following::div[1]</value>
+      <webElementGuid>6baecb88-99c3-497b-8f59-6f6e6c32cb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[3]/following::div[2]</value>
+      <webElementGuid>8581ceb7-dd54-4a37-92b7-6b5fdd5c4136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[7]</value>
+      <webElementGuid>9972e10c-db98-44b0-8927-c85184ef9a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KegiatanLihat semuaPangkalan Data Pendidikan Tinggi Mengucapkan Selamat kepada pemenang Anugerah PDDikti 2023Baca selengkapnyaSelasa, 14 November 2023 PDDikti telah melaksanakan Workshop dan Asistensi Pelaporan Data Pangkalan Data Pendidikan Tinggi (PDDikti) Semester 2022/2023.Baca selengkapnyaMari simak lini masa MSIB Angkatan 6 pada unggahan di atas! Jangan lupa periksa kembali persyaratan pendaftaran dan segera daftarkan dirimu, ya!Baca selengkapnyaDitjen Diktiristek kembali membuka program Dana Padanan untuk tahun anggaran 2024 dan pada hari Rabu (25/10) Ditjen Diktiristek telah melangsungkan sosialisasi mengenai Program Dana Padanan tahun 2024.Baca selengkapnya' or . = 'KegiatanLihat semuaPangkalan Data Pendidikan Tinggi Mengucapkan Selamat kepada pemenang Anugerah PDDikti 2023Baca selengkapnyaSelasa, 14 November 2023 PDDikti telah melaksanakan Workshop dan Asistensi Pelaporan Data Pangkalan Data Pendidikan Tinggi (PDDikti) Semester 2022/2023.Baca selengkapnyaMari simak lini masa MSIB Angkatan 6 pada unggahan di atas! Jangan lupa periksa kembali persyaratan pendaftaran dan segera daftarkan dirimu, ya!Baca selengkapnyaDitjen Diktiristek kembali membuka program Dana Padanan untuk tahun anggaran 2024 dan pada hari Rabu (25/10) Ditjen Diktiristek telah melangsungkan sosialisasi mengenai Program Dana Padanan tahun 2024.Baca selengkapnya')]</value>
+      <webElementGuid>17d65f34-201c-423c-a6e5-4138f6de19ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

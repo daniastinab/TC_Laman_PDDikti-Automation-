@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.08(Verifikasi user mengklik button dropdown semua pada field search)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d53e1d8-89e6-4c57-9443-13747a7a4539</testCaseGuid>
+</TestCaseEntity>

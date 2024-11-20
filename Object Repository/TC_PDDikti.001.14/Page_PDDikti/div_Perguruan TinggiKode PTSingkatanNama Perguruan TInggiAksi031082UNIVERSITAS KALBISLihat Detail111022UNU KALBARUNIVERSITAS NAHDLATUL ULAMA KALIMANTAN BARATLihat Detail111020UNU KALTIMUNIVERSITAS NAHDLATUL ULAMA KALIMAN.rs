@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Perguruan TinggiKode PTSingkatanNama Perguruan TInggiAksi031082UNIVERSITAS KALBISLihat Detail111022UNU KALBARUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN BARATLihat Detail111020UNU KALTIMUNIVERSITAS NAHDLATUL ULAMA KALIMAN</name>
+   <tag></tag>
+   <elementGuidId>0fd55ed2-924d-47e4-93b4-b09251f88fd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c2787c3-fbf8-4da5-8627-0c6b86143dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0</value>
+      <webElementGuid>c6dc8ac6-853d-491c-abd4-4a1458affbf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perguruan TinggiKode PTSingkatanNama Perguruan TInggiAksi031082UNIVERSITAS KALBISLihat Detail111022UNU KALBARUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN BARATLihat Detail111020UNU KALTIMUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN TIMURLihat Detail1 dari1</value>
+      <webElementGuid>b8a7fb97-e01c-4167-bb0d-c10c4a0ab184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full p-3&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex my-10 mb-[-90px] relative z-10&quot;]/div[@class=&quot;lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0&quot;]</value>
+      <webElementGuid>2ca42f4f-1c17-43b8-9f0d-c68dfe0b4258</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      <webElementGuid>1360e28c-4e6b-435a-8b81-09a33bb417a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[2]</value>
+      <webElementGuid>320c2f9c-f997-4b24-85ea-38630d4d149b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Pencarian Perguruan Tinggi'])[2]/following::div[4]</value>
+      <webElementGuid>3662d9a5-f3c3-4f2f-98b9-81152ccc6712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div</value>
+      <webElementGuid>7fb1cb2a-e607-4410-8e5b-5772b0161565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Perguruan TinggiKode PTSingkatanNama Perguruan TInggiAksi031082UNIVERSITAS KALBISLihat Detail111022UNU KALBARUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN BARATLihat Detail111020UNU KALTIMUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN TIMURLihat Detail1 dari1' or . = 'Perguruan TinggiKode PTSingkatanNama Perguruan TInggiAksi031082UNIVERSITAS KALBISLihat Detail111022UNU KALBARUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN BARATLihat Detail111020UNU KALTIMUNIVERSITAS NAHDLATUL ULAMA KALIMANTAN TIMURLihat Detail1 dari1')]</value>
+      <webElementGuid>2b80d8c7-e36a-46ca-bd6c-af3b2d4f082a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

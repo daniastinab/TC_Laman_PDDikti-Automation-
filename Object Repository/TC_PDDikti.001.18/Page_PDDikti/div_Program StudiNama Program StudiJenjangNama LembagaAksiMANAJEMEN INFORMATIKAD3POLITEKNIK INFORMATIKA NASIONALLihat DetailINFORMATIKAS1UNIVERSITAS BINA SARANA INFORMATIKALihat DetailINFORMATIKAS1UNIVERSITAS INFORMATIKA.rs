@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program StudiNama Program StudiJenjangNama LembagaAksiMANAJEMEN INFORMATIKAD3POLITEKNIK INFORMATIKA NASIONALLihat DetailINFORMATIKAS1UNIVERSITAS BINA SARANA INFORMATIKALihat DetailINFORMATIKAS1UNIVERSITAS INFORMATIKA</name>
+   <tag></tag>
+   <elementGuidId>acc6a418-5dd0-4648-b507-182ed63f0c4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ebf84b6-8495-4af0-a573-a44793490b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0</value>
+      <webElementGuid>3184e986-2583-4f46-9c18-f600018dfc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Program StudiNama Program StudiJenjangNama LembagaAksiMANAJEMEN INFORMATIKAD3POLITEKNIK INFORMATIKA NASIONALLihat DetailINFORMATIKAS1UNIVERSITAS BINA SARANA INFORMATIKALihat DetailINFORMATIKAS1UNIVERSITAS INFORMATIKA DAN BISNIS INDONESIALihat DetailTEKNIK INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER UNIVERSALLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER MULTICOMLihat DetailTEKNIK INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER MULTICOMLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER ASTERLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER UNIVERSALLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER STARTECKLihat DetailINFORMATIKAS1SEKOLAH TINGGI INFORMATIKA &amp; KOMPUTER INDONESIALihat Detail1 dari10</value>
+      <webElementGuid>814e3c62-9fa2-463f-9b67-fd63e52d71bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full p-3&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex my-10 mb-[-90px] relative z-10&quot;]/div[@class=&quot;lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0&quot;]</value>
+      <webElementGuid>f20054a0-18f3-4a76-bb42-7bbbc51122ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      <webElementGuid>3f78037c-5866-46ce-873e-4f313290f115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[2]</value>
+      <webElementGuid>e7496ca3-7690-45d6-8fe4-917991e35ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Pencarian Program Studi'])[2]/following::div[4]</value>
+      <webElementGuid>03cdd106-3dbb-49be-a392-4dc60359b822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div</value>
+      <webElementGuid>65241a1f-4573-4592-a624-256e3eb49150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Program StudiNama Program StudiJenjangNama LembagaAksiMANAJEMEN INFORMATIKAD3POLITEKNIK INFORMATIKA NASIONALLihat DetailINFORMATIKAS1UNIVERSITAS BINA SARANA INFORMATIKALihat DetailINFORMATIKAS1UNIVERSITAS INFORMATIKA DAN BISNIS INDONESIALihat DetailTEKNIK INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER UNIVERSALLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER MULTICOMLihat DetailTEKNIK INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER MULTICOMLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER ASTERLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER UNIVERSALLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER STARTECKLihat DetailINFORMATIKAS1SEKOLAH TINGGI INFORMATIKA &amp; KOMPUTER INDONESIALihat Detail1 dari10' or . = 'Program StudiNama Program StudiJenjangNama LembagaAksiMANAJEMEN INFORMATIKAD3POLITEKNIK INFORMATIKA NASIONALLihat DetailINFORMATIKAS1UNIVERSITAS BINA SARANA INFORMATIKALihat DetailINFORMATIKAS1UNIVERSITAS INFORMATIKA DAN BISNIS INDONESIALihat DetailTEKNIK INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER UNIVERSALLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER MULTICOMLihat DetailTEKNIK INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER MULTICOMLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER ASTERLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER UNIVERSALLihat DetailMANAJEMEN INFORMATIKAD3AKADEMI MANAJEMEN INFORMATIKA &amp; KOMPUTER STARTECKLihat DetailINFORMATIKAS1SEKOLAH TINGGI INFORMATIKA &amp; KOMPUTER INDONESIALihat Detail1 dari10')]</value>
+      <webElementGuid>e168e068-752e-4556-86c8-3513305629bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Tentang PDDikti</name>
+   <tag></tag>
+   <elementGuidId>472e33a4-9fbc-4438-9b90-713f4c751e76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.flex.gap-2.items-center.cursor-pointer.font-medium.text-lg.relative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f982472c-bf5a-46d7-948d-39772e4e7877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-2 items-center cursor-pointer font-medium text-lg relative</value>
+      <webElementGuid>24555dcd-816b-4ee5-abf7-78d683574d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang PDDikti </value>
+      <webElementGuid>93ab0f8e-0ac1-450f-8de9-5ba355a55fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full bg-white flex justify-center items-center mx-auto navbar&quot;]/div[@class=&quot;fixed top-0 flex justify-between left-0 lg:px-16 px-4 w-full py-4 bg-white shadow-shadow-1 z-50&quot;]/div[@class=&quot;items-center gap-7 md:flex hidden&quot;]/ul[@class=&quot;flex gap-7&quot;]/li[@class=&quot;flex gap-2 items-center cursor-pointer font-medium text-lg relative&quot;]</value>
+      <webElementGuid>6a935074-6a24-4263-8918-b6c441129508</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/ul/li</value>
+      <webElementGuid>da3bf753-9811-4de7-a9aa-e0f2ec3e3980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::li[1]</value>
+      <webElementGuid>7f6933fe-b0b0-4f2a-b1bd-8582cb5afa9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/preceding::li[2]</value>
+      <webElementGuid>1d8e5132-34bf-4f02-a2a9-637c83930d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang PDDikti']/parent::*</value>
+      <webElementGuid>d5b0008f-65c5-46bd-b2d5-37761188b79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>f1739196-c42b-451b-8fd8-5fa7c0f6f2b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Tentang PDDikti ' or . = 'Tentang PDDikti ')]</value>
+      <webElementGuid>488e483f-3052-4089-94d1-db8780822f89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

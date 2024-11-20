@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_di sini</name>
+   <tag></tag>
+   <elementGuidId>16046065-21e9-4c3a-8302-458a63bd75a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div[3]/div/div/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.underline.font-semibold.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bf4d74f3-bc3e-4c83-8ade-b264f6b9d976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kanalpengetahuandikti.kemdikbud.go.id</value>
+      <webElementGuid>b2ef6b24-0364-4e05-9103-4ab0a75f96cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6caac2c2-084c-4ed3-b53e-71c8f5f075af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>underline font-semibold cursor-pointer</value>
+      <webElementGuid>6965fd4a-f7c9-4755-bdee-a8956b40d992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>f4c5ac7b-2314-4ed0-acee-f45df7249ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>di sini</value>
+      <webElementGuid>148a807d-0a96-4339-b497-62bcc3fced62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;max-w-[1256px] w-full mx-auto flex flex-row flex-wrap gap-y-4 items-center justify-between mt-10&quot;]/div[@class=&quot;max-w-[612px] flex justify-center items-center&quot;]/div[@class=&quot;flex justify-between items-center w-full bg-gradient-to-r from-linear-main-1 to-linear-main-2 rounded-3xl px-7 shadow-inner-shadow-1 p-4&quot;]/div[1]/p[@class=&quot;text-white font-normal text-lg&quot;]/a[@class=&quot;underline font-semibold cursor-pointer&quot;]</value>
+      <webElementGuid>83569e32-c1f9-4731-82bc-dcb802e8426c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div[3]/div/div/div/p/a</value>
+      <webElementGuid>743cae9d-6f92-41e0-a4e5-315041740d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'di sini')]</value>
+      <webElementGuid>e0831314-bcf2-438f-ac49-a9b3f2d958c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada kendala terkait data Pendidikan Tinggi?'])[1]/following::a[1]</value>
+      <webElementGuid>33f3ac9b-19c6-4eb3-90d6-f65e4160bc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/following::a[6]</value>
+      <webElementGuid>672b2f25-bb6e-4ee9-8618-de06637fd4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari tahu perbedaannya!'])[1]/preceding::a[1]</value>
+      <webElementGuid>073dd34a-f88f-44b4-b27c-ff544724e2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='di sini'])[2]/preceding::a[1]</value>
+      <webElementGuid>ec09ab9f-6475-4a3c-bc55-73801a4ebc39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='di sini']/parent::*</value>
+      <webElementGuid>2d16489a-a097-4e02-8a7d-7f98ef41768b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kanalpengetahuandikti.kemdikbud.go.id')]</value>
+      <webElementGuid>82e8b9c8-ba67-4313-a88b-34b88d8c31b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>f8ade03c-7751-4476-91bc-70beb2279857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kanalpengetahuandikti.kemdikbud.go.id' and (text() = 'di sini' or . = 'di sini')]</value>
+      <webElementGuid>3b905892-f1f6-452d-a34f-42f572bc3ee6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

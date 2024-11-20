@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.11(Mencari data Mahasiswa dengan keyword null lalu klik enter)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>085db278-a923-44d7-bd71-cc6a28fe3859</testCaseGuid>
+</TestCaseEntity>

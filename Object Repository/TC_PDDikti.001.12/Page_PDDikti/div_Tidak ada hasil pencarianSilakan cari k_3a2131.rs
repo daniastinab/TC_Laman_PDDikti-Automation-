@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tidak ada hasil pencarianSilakan cari k_3a2131</name>
+   <tag></tag>
+   <elementGuidId>228a0103-2931-46a8-978b-a5a24056a170</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4095b093-baac-41e4-bc02-731aa214074f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-[100px]</value>
+      <webElementGuid>f7d4703d-ab14-44a6-ac74-df8f9b7f93c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tidak ada hasil pencarianSilakan cari kata kunci lainKembali ke Beranda</value>
+      <webElementGuid>124e5b01-66f5-429c-966f-38d994a4fbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full p-3&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex my-10 mb-[-90px] relative z-10&quot;]/div[@class=&quot;pb-[100px]&quot;]</value>
+      <webElementGuid>3788d407-874f-4dbc-8f26-cccd0933129f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      <webElementGuid>0c04ef0c-ad1d-4f0e-9b9a-577a32defc37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[2]</value>
+      <webElementGuid>73182b50-b223-400b-82de-e95efab2beda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Pencarian Dosen'])[2]/following::div[4]</value>
+      <webElementGuid>efe81eb9-53c7-4492-bfa3-9b0f00d8e0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalan Jendral Sudirman, Gedung D, Senayan, Jakarta 10270'])[1]/preceding::div[7]</value>
+      <webElementGuid>5b50741a-55d5-4f37-8600-37cb5ccb64a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div</value>
+      <webElementGuid>af6c5645-9007-4441-abda-56209f116395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tidak ada hasil pencarianSilakan cari kata kunci lainKembali ke Beranda' or . = 'Tidak ada hasil pencarianSilakan cari kata kunci lainKembali ke Beranda')]</value>
+      <webElementGuid>dd0a540a-7cae-43b3-a978-b4d4dff22854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

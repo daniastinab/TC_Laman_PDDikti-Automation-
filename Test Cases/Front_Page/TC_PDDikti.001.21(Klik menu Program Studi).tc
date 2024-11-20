@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.21(Klik menu Program Studi)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76d29891-b057-4096-8d1d-7329b8666abc</testCaseGuid>
+</TestCaseEntity>

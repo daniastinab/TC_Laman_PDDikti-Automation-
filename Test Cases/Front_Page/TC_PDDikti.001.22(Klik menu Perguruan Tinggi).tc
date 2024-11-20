@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.22(Klik menu Perguruan Tinggi)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc0121e4-afe0-420d-ba93-3c770e8d3b31</testCaseGuid>
+</TestCaseEntity>

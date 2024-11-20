@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>177ef72a-edc1-40da-9702-cdb81b90d31d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div/div/div/div/div/button/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Dropdown Arrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>eae6d331-bbff-4c13-bed2-f1d9558f0731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/dropdown.954bafd62ce6e61bf71a06ed92a460d2.svg</value>
+      <webElementGuid>8236e621-54ae-4233-a9dc-083f3560ed3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dropdown Arrow</value>
+      <webElementGuid>3c84d39a-75ac-44d1-acd1-c1cd2a5c7e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;max-w-7xl flex justify-center mx-auto&quot;]/div[@class=&quot;px-1 md:px-6 lg:px-16 md:w-11/12 w-full&quot;]/div[@class=&quot;flex shadow-shadow-2 rounded-2xl custom-ul-material-tailwind&quot;]/div[@class=&quot;custom-width-material-tailwind rounded-s-2xl relative hidden flex-row items-center justify-center md:flex w-1/5 bg-gradient-to-r from-linear-1-1 to-linear-1-2 cursor-pointer focus:outline-none border-none&quot;]/div[@class=&quot;relative w-full min-w-[200px] h-10&quot;]/button[@class=&quot;peer w-full h-full bg-transparent text-left outline-0 focus:outline-0 disabled:bg-blue-gray-50 disabled:border-0 transition-all border px-3 py-2.5 rounded-[7px] border-[var(--orange)] rounded-[var(--secondary-select)] pb-[42px] text-lg font-medium font-inter text-black border-none focus:border-none active:border-none cursor-pointer outline-none&quot;]/div[@class=&quot;grid place-items-center absolute top-2/4 right-2 pt-px w-5 h-5 text-blue-gray-400 rotate-0 -translate-y-2/4 transition-all&quot;]/img[1]</value>
+      <webElementGuid>33a8d681-3e2d-4afd-be46-f9358eb1beeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div/div/div/div/div/button/div/img</value>
+      <webElementGuid>1dc9e17e-e3bc-446a-9f47-aa2342d2738c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dropdown Arrow']</value>
+      <webElementGuid>1f8e680e-06d7-4553-a5e1-790d10c4f0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/img</value>
+      <webElementGuid>37a3fda9-5fac-4eae-b7b8-a8ff42f025ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/dropdown.954bafd62ce6e61bf71a06ed92a460d2.svg' and @alt = 'Dropdown Arrow']</value>
+      <webElementGuid>f5c3fdc1-c21d-4bef-a9e2-5fde107dd79e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

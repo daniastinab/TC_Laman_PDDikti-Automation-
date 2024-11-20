@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.18(Mencari data Program Studi dengan keyword valid lalu klik enter)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ace6b282-e92b-42fa-a9e1-44135055533e</testCaseGuid>
+</TestCaseEntity>

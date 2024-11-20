@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.24(Klik menu Pengumuman)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f0f8f82-67e1-45bd-9f5b-607a12730ae9</testCaseGuid>
+</TestCaseEntity>

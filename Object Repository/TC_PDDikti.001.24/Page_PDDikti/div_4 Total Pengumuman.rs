@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_4 Total Pengumuman</name>
+   <tag></tag>
+   <elementGuidId>c1a1c7f2-68e1-4109-8791-fc74f7566ab1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d5f5b15-0f46-4945-a45f-6a494706f75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-4 lg:text-l w-full justify-between text-m</value>
+      <webElementGuid>b6885fa7-c3f0-4ed7-bcf8-658641b85ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4 Total Pengumuman</value>
+      <webElementGuid>06a4ab5f-523e-4fda-bb6d-ad0086e8033f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-6 mt-[120px]&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex&quot;]/div[@class=&quot;pb-4 lg:text-l w-full justify-between text-m&quot;]</value>
+      <webElementGuid>a7f51290-7159-44fd-b95a-61930e5a3978</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[3]/div</value>
+      <webElementGuid>87e99de2-7a9a-4cfa-8f7c-f3e6775a9a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[1]/following::div[10]</value>
+      <webElementGuid>ae3f1e88-7263-461b-9477-00d9dcfb18d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::div[10]</value>
+      <webElementGuid>7fcca6c1-2ac2-4363-b04e-ef8fc51785c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/preceding::div[2]</value>
+      <webElementGuid>bdd6e213-dcce-49e3-b0f5-43490f6ca885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div</value>
+      <webElementGuid>228c9ba6-def2-44a3-9610-ac61ebcce40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '4 Total Pengumuman' or . = '4 Total Pengumuman')]</value>
+      <webElementGuid>f65a0908-f77a-4449-9b44-691d044038f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

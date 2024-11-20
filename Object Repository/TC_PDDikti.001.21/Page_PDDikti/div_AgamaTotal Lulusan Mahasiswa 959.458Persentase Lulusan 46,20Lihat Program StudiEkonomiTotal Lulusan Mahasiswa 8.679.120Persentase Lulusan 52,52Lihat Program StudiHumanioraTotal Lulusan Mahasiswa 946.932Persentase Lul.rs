@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AgamaTotal Lulusan Mahasiswa 959.458Persentase Lulusan 46,20Lihat Program StudiEkonomiTotal Lulusan Mahasiswa 8.679.120Persentase Lulusan 52,52Lihat Program StudiHumanioraTotal Lulusan Mahasiswa 946.932Persentase Lul</name>
+   <tag></tag>
+   <elementGuidId>18e822cf-ffb3-4324-bdbd-728708a1d369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-wrap.w-full.gap-3.justify-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f91cbafa-0510-45d4-93c1-0e1a9c002563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-wrap w-full gap-3 justify-center</value>
+      <webElementGuid>ba5ae366-a8fb-4092-a437-5f4521bfa99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AgamaTotal Lulusan Mahasiswa: 959.458Persentase Lulusan: 46,20%Lihat Program StudiEkonomiTotal Lulusan Mahasiswa: 8.679.120Persentase Lulusan: 52,52%Lihat Program StudiHumanioraTotal Lulusan Mahasiswa: 946.932Persentase Lulusan: 52,08%Lihat Program StudiKesehatanTotal Lulusan Mahasiswa: 4.940.117Persentase Lulusan: 69,83%Lihat Program StudiMIPATotal Lulusan Mahasiswa: 1.293.817Persentase Lulusan: 60,49%Lihat Program StudiPendidikanTotal Lulusan Mahasiswa: 11.328.458Persentase Lulusan: 57,84%Lihat Program StudiPertanianTotal Lulusan Mahasiswa: 1.914.295Persentase Lulusan: 52,42%Lihat Program StudiSeniTotal Lulusan Mahasiswa: 401.697Persentase Lulusan: 46,63%Lihat Program StudiSosialTotal Lulusan Mahasiswa: 7.356.182Persentase Lulusan: 48,04%Lihat Program StudiTeknikTotal Lulusan Mahasiswa: 7.806.520Persentase Lulusan: 50,65%Lihat Program Studi</value>
+      <webElementGuid>fc347386-03b9-411c-a60a-028fc55452e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-6 mt-[120px]&quot;]/div[@class=&quot;mx-auto max-w-7xl flex justify-center my-5&quot;]/div[@class=&quot;flex flex-wrap w-full gap-3 justify-center&quot;]</value>
+      <webElementGuid>ed90f3aa-b85a-4fb3-acc5-b808fc5d0f7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      <webElementGuid>0a72ff79-90e3-4891-b799-b4f3a3f76d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[2]</value>
+      <webElementGuid>40956302-0976-428c-804a-f50a3d35657c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Studi Berdasarkan Bidang Ilmu di Indonesia'])[1]/following::div[4]</value>
+      <webElementGuid>f51bf10f-ffd2-4b02-9cc8-3c44a9698283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div</value>
+      <webElementGuid>b1780b44-074f-4ff3-9ca7-64326690f152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AgamaTotal Lulusan Mahasiswa: 959.458Persentase Lulusan: 46,20%Lihat Program StudiEkonomiTotal Lulusan Mahasiswa: 8.679.120Persentase Lulusan: 52,52%Lihat Program StudiHumanioraTotal Lulusan Mahasiswa: 946.932Persentase Lulusan: 52,08%Lihat Program StudiKesehatanTotal Lulusan Mahasiswa: 4.940.117Persentase Lulusan: 69,83%Lihat Program StudiMIPATotal Lulusan Mahasiswa: 1.293.817Persentase Lulusan: 60,49%Lihat Program StudiPendidikanTotal Lulusan Mahasiswa: 11.328.458Persentase Lulusan: 57,84%Lihat Program StudiPertanianTotal Lulusan Mahasiswa: 1.914.295Persentase Lulusan: 52,42%Lihat Program StudiSeniTotal Lulusan Mahasiswa: 401.697Persentase Lulusan: 46,63%Lihat Program StudiSosialTotal Lulusan Mahasiswa: 7.356.182Persentase Lulusan: 48,04%Lihat Program StudiTeknikTotal Lulusan Mahasiswa: 7.806.520Persentase Lulusan: 50,65%Lihat Program Studi' or . = 'AgamaTotal Lulusan Mahasiswa: 959.458Persentase Lulusan: 46,20%Lihat Program StudiEkonomiTotal Lulusan Mahasiswa: 8.679.120Persentase Lulusan: 52,52%Lihat Program StudiHumanioraTotal Lulusan Mahasiswa: 946.932Persentase Lulusan: 52,08%Lihat Program StudiKesehatanTotal Lulusan Mahasiswa: 4.940.117Persentase Lulusan: 69,83%Lihat Program StudiMIPATotal Lulusan Mahasiswa: 1.293.817Persentase Lulusan: 60,49%Lihat Program StudiPendidikanTotal Lulusan Mahasiswa: 11.328.458Persentase Lulusan: 57,84%Lihat Program StudiPertanianTotal Lulusan Mahasiswa: 1.914.295Persentase Lulusan: 52,42%Lihat Program StudiSeniTotal Lulusan Mahasiswa: 401.697Persentase Lulusan: 46,63%Lihat Program StudiSosialTotal Lulusan Mahasiswa: 7.356.182Persentase Lulusan: 48,04%Lihat Program StudiTeknikTotal Lulusan Mahasiswa: 7.806.520Persentase Lulusan: 50,65%Lihat Program Studi')]</value>
+      <webElementGuid>cd3517cf-6ca3-4408-8b14-dbc09b38c81e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

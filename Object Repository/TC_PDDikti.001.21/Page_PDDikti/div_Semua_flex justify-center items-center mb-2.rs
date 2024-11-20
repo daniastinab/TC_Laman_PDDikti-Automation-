@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Semua_flex justify-center items-center mb-2</name>
+   <tag></tag>
+   <elementGuidId>f23326a2-dcec-4225-b405-95c201651bd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='book-wrapper']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-center.items-center.mb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e524cf8-abb6-435b-913e-b370368babe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center mb-2</value>
+      <webElementGuid>9289182c-8380-416a-a0a7-01b15e760c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;max-w-7xl mt-10 flex justify-center items-center mx-auto&quot;]/div[@class=&quot;w-full grid grid-cols-1 md:grid-cols-4 lg:grid-cols-8 justify-center items-center gap-5&quot;]/a[@id=&quot;book-wrapper&quot;]/div[@class=&quot;flex-row&quot;]/div[@class=&quot;flex justify-center items-center mb-2&quot;]</value>
+      <webElementGuid>4be46031-d094-4c92-af5c-dee6a6461dc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='book-wrapper']/div/div</value>
+      <webElementGuid>c6717d97-39a0-44b6-8f60-1fedb8cf5030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/following::div[7]</value>
+      <webElementGuid>15dd6ed6-3730-43b9-abf4-0b2b8b78ae8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::div[17]</value>
+      <webElementGuid>8e7d2cc3-76e0-4786-8c46-c952b01f640d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada kendala terkait data Pendidikan Tinggi?'])[1]/preceding::div[22]</value>
+      <webElementGuid>57f39caf-5cf8-495f-b351-244daee24cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='di sini'])[1]/preceding::div[22]</value>
+      <webElementGuid>7401e0d9-5346-44ab-8066-6309b2e89151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>27da598b-7c21-47e2-a009-1c9d1be35598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

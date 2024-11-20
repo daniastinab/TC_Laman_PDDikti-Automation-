@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c5fb6740-b603-49b7-9246-61728d79f33d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/ul/li/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.flex.gap-2.items-center.cursor-pointer.font-medium.text-lg.relative > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ed0c4227-de05-47be-905d-aa05b9d41fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/dropdown-down.1936f1781dd5fc375bc89a8b4c65f3af.svg</value>
+      <webElementGuid>0b3f96b6-0ea2-4cb9-b105-4ba1bea53e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full bg-white flex justify-center items-center mx-auto navbar&quot;]/div[@class=&quot;fixed top-0 flex justify-between left-0 lg:px-16 px-4 w-full py-4 bg-white shadow-shadow-1 z-50&quot;]/div[@class=&quot;items-center gap-7 md:flex hidden&quot;]/ul[@class=&quot;flex gap-7&quot;]/li[@class=&quot;flex gap-2 items-center cursor-pointer font-medium text-lg relative&quot;]/img[1]</value>
+      <webElementGuid>2398d0f8-e537-4c39-b17a-0041614ed223</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/ul/li/img</value>
+      <webElementGuid>1ac7803d-0939-45ab-bac8-8386bb0fb648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/img</value>
+      <webElementGuid>1c9a7598-618f-4032-a855-d8ec54fce6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/dropdown-down.1936f1781dd5fc375bc89a8b4c65f3af.svg']</value>
+      <webElementGuid>2218308e-9485-439a-961f-3f15237fd02f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

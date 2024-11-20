@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.04(Melihat Kebijakan Privasi)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df97450e-701b-48b4-bcfd-35f20be198ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Mahasiswa_w-full outline-none mdtext-_206049</name>
+   <tag></tag>
+   <elementGuidId>0c651bad-5a7f-4ea9-bf22-9383f388894a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>90f98719-0b5b-41e4-9a99-ea5372131f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7f307bf8-0483-4ad7-85ee-eaec1d917567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full outline-none md:text-base text-xs</value>
+      <webElementGuid>ba32a524-ea34-4583-933c-4100c41d5009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Keyword: [Nama MHS] [Nama Dosen] [Nama PT] [Nama Prodi] [NIM] [NIDN]</value>
+      <webElementGuid>19179fbd-7bfc-4f19-a25e-034b300542d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;max-w-7xl flex justify-center mx-auto&quot;]/div[@class=&quot;px-1 md:px-6 lg:px-16 md:w-11/12 w-full&quot;]/div[@class=&quot;flex shadow-shadow-2 rounded-2xl custom-ul-material-tailwind&quot;]/div[@class=&quot;flex justify-between w-full md:w-4/5 md:p-6 gap-5 bg-white px-3 py-5 border md:rounded-e-2xl rounded-2xl md:rounded-s-none items-center&quot;]/input[@class=&quot;w-full outline-none md:text-base text-xs&quot;]</value>
+      <webElementGuid>c8ed5c62-acff-4490-96bb-ef88df6ed55b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>bb850a94-43ae-4609-a576-61bd32f7eef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div/div/div/div[2]/input</value>
+      <webElementGuid>fc6c48f8-b351-4b6d-870f-6b0633ef6433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>a5b450ed-24f9-4f28-b623-c4dc72941359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Keyword: [Nama MHS] [Nama Dosen] [Nama PT] [Nama Prodi] [NIM] [NIDN]']</value>
+      <webElementGuid>856535bf-ed62-453d-8c89-51762f231cdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

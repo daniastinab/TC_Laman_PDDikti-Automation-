@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.03(Melihat FAQ pada Tentang PDDikti)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74184d09-13c9-4a33-8e85-41d8de032460</testCaseGuid>
+</TestCaseEntity>

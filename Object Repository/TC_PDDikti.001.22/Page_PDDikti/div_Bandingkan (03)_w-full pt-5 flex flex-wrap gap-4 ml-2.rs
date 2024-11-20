@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bandingkan (03)_w-full pt-5 flex flex-wrap gap-4 ml-2</name>
+   <tag></tag>
+   <elementGuidId>9e0c58c0-3955-4581-b4dd-4813b97c60d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[6]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-full.pt-5.flex.flex-wrap.gap-4.ml-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3de8f186-b38f-4aae-a72e-e139eb3c2ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full pt-5 flex flex-wrap gap-4 ml-2</value>
+      <webElementGuid>3d90cf29-9488-4505-8cd5-653d34440a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-6&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/div[@class=&quot;w-full flex gap-5&quot;]/div[@class=&quot;md:w-4/5 w-full&quot;]/div[@class=&quot;w-full pt-5 flex flex-wrap gap-4 ml-2&quot;]</value>
+      <webElementGuid>3831a4a6-e2d3-481e-bbe7-e4a832ddb51e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[6]/div/div[2]/div[2]</value>
+      <webElementGuid>5238a0b1-d6db-41c9-9a36-02181abfc3ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bandingkan (0/3)'])[1]/following::div[1]</value>
+      <webElementGuid>ce6634a5-30ad-487f-b474-5c152d49cda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[2]</value>
+      <webElementGuid>31d16765-66be-4040-856e-07d84830b875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>ea40100b-750e-4909-80a6-cf3f315c8411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

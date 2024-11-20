@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.15(Mencari data Perguruan Tinggi dengan keyword valid lalu klik enter)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4169da4-aaa0-4910-adfd-82ca4c3dfa84</testCaseGuid>
+</TestCaseEntity>

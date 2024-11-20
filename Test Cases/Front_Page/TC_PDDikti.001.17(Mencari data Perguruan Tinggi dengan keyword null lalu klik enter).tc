@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.17(Mencari data Perguruan Tinggi dengan keyword null lalu klik enter)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b77e07f3-a945-48e3-8927-d68ec22c085e</testCaseGuid>
+</TestCaseEntity>

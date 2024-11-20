@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Profil Lembaga</name>
+   <tag></tag>
+   <elementGuidId>fa5710c7-ed7f-42af-a0d9-b28b22f1f250</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/ul/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30f4920f-a874-4089-a091-fac304f95f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>acb0cdfe-d1e6-446a-8f74-dfa394147ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profil-lembaga</value>
+      <webElementGuid>ac17f46d-54d3-4dde-8018-2d757ede2597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profil Lembaga</value>
+      <webElementGuid>102266b7-5a50-492a-bb4a-5ac9fd2f39ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full bg-white flex justify-center items-center mx-auto navbar&quot;]/div[@class=&quot;fixed top-0 flex justify-between left-0 lg:px-16 px-4 w-full py-4 bg-white shadow-shadow-1 z-50&quot;]/div[@class=&quot;items-center gap-7 md:flex hidden&quot;]/ul[@class=&quot;flex gap-7&quot;]/div[@class=&quot;absolute mt-[70px] -ml-[2.5rem] p-6 w-[200px] bg-white rounded-md shadow-shadow-2 flex gap-10&quot;]/div[@class=&quot;flex flex-col&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>1c43b7dc-b836-4d12-b071-cf0676222436</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/ul/div/div/a</value>
+      <webElementGuid>5adff262-72fd-49a3-9e54-2abf813a96ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Profil Lembaga')]</value>
+      <webElementGuid>6b213d0b-980d-462e-8769-0e9d1acf12be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang PDDikti'])[1]/following::a[1]</value>
+      <webElementGuid>96c82206-86a1-4b25-946c-9bebf9171dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standar Pelayanan'])[1]/preceding::a[1]</value>
+      <webElementGuid>20801288-408e-40e4-97ca-6177c790ee4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::a[2]</value>
+      <webElementGuid>71d7adc7-d182-4a1b-b137-b2ee8d69fd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profil Lembaga']/parent::*</value>
+      <webElementGuid>5f025d3f-297c-4ee8-bb36-0eee4d3f9f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profil-lembaga')]</value>
+      <webElementGuid>a9ee0c40-4215-4a51-b536-30f075f2475e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div/a</value>
+      <webElementGuid>2680d133-fa7a-45b1-a75d-08b5d4309343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profil-lembaga' and (text() = 'Profil Lembaga' or . = 'Profil Lembaga')]</value>
+      <webElementGuid>5e07655c-0e4c-4ce5-ab77-6d9983f330df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

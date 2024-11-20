@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.05(Mencari data Semua dengan keyword valid lalu klik enter)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79050e3b-e999-41ce-bcc0-1cac16b141b6</testCaseGuid>
+</TestCaseEntity>

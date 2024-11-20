@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mahasiswa</name>
+   <tag></tag>
+   <elementGuidId>8223a4ae-b56b-4fae-abcd-e55cd339011d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[4]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f0e65d6-37f0-4e83-b1f4-c4044365f369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:p-[24px] md:p-[12px] p-3 bg-gradient-to-r from-linear-main-1 to-linear-main-2 shadow-inner-shadow-1 rounded-md text-neutral-10 relative w-full bottom-0 justify-center</value>
+      <webElementGuid>47181276-1e9b-4b7d-ad70-b03f2c8b52b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mahasiswa</value>
+      <webElementGuid>fe9b1da6-8fd5-4ada-a6d7-44c89f8f9d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full p-3&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex my-10 mb-[-90px] relative z-10&quot;]/div[@class=&quot;lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex py-3 undefined&quot;]/div[@class=&quot;lg:p-[24px] md:p-[12px] p-3 bg-gradient-to-r from-linear-main-1 to-linear-main-2 shadow-inner-shadow-1 rounded-md text-neutral-10 relative w-full bottom-0 justify-center&quot;]</value>
+      <webElementGuid>3a7afd08-7585-4174-8b61-74f75f52567e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[4]/div/div/div</value>
+      <webElementGuid>7dfc6916-fbc8-47d5-9a77-1a5d69a2a1c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[4]</value>
+      <webElementGuid>5d0d8dd6-cc0d-4943-8be7-127537cf19e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Pencarian Mahasiswa'])[2]/following::div[6]</value>
+      <webElementGuid>bc775e62-0cc9-4b8e-bc7f-1103b198f32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::div[2]</value>
+      <webElementGuid>34a262ce-d15b-4b7d-800e-2c69322782a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div/div/div</value>
+      <webElementGuid>23b52c6e-c04b-4cbf-b516-36883f2e1aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mahasiswa' or . = 'Mahasiswa')]</value>
+      <webElementGuid>3a5730d7-f14e-4d45-b098-7661ff0b5247</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

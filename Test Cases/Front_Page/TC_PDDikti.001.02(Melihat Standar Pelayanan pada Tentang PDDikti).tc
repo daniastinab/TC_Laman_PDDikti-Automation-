@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.02(Melihat Standar Pelayanan pada Tentang PDDikti)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff9b3718-5e15-41a6-a70a-17c13a2ea8d4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_PDDikti.001.12(Mencari data Dosen dengan keyword valid lalu klik enter)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79e649c4-3136-43d2-ab44-371c886cd6a7</testCaseGuid>
+</TestCaseEntity>

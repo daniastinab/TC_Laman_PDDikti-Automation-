@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DosenNamaPerguruan TinggiProgram StudiAksiEDI TEDIAKADEMI SEKRETARI DAN MANAJEMEN ARIYANTIMANAJEMEN ADMINISTRASILihat DetailTEDI KUSTANDIUNIVERSITAS MUHAMMADIYAH CIREBONMANAJEMENLihat DetailTEDI KURNIADIUNIVERSITAS P</name>
+   <tag></tag>
+   <elementGuidId>d9e97ee6-aac1-4aa6-bb88-d83241385b4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59c34616-c746-422c-868b-90f65bd36734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0</value>
+      <webElementGuid>aa26401c-bde7-46a5-9c52-19abfdcb88be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DosenNamaPerguruan TinggiProgram StudiAksiEDI TEDIAKADEMI SEKRETARI DAN MANAJEMEN ARIYANTIMANAJEMEN ADMINISTRASILihat DetailTEDI KUSTANDIUNIVERSITAS MUHAMMADIYAH CIREBONMANAJEMENLihat DetailTEDI KURNIADIUNIVERSITAS PERTAHANANKIMIALihat DetailTEDI HARTOYOUNIVERSITAS SILIWANGIAGRIBISNISLihat DetailTEDIPOLTEKKES KEMENKES PALEMBANGFARMASILihat DetailTEDI LESMANA MARSELINOUNIVERSITAS KALBISINFORMATIKALihat DetailTEDI RUSTENDIUNIVERSITAS SILIWANGIAKUNTANSILihat DetailTEDI KUSNADIUNIVERSITAS BANTENMANAJEMENLihat DetailTEDI ERVIANTONOUNIVERSITAS UDAYANAILMU POLITIKLihat DetailTEDI PURWANTOUNIVERSITAS PAMULANGTEKNIK INFORMATIKALihat Detail1 dari10</value>
+      <webElementGuid>3bd4fc35-a82b-4bd4-b830-5f5fd7c10d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full p-3&quot;]/div[@class=&quot;mx-auto items-center justify-center max-w-7xl flex my-10 mb-[-90px] relative z-10&quot;]/div[@class=&quot;lg:p-[32px] md:p-[16px] py-2 bg-white shadow-inner-shadow-1 rounded-md w-full bottom-0&quot;]</value>
+      <webElementGuid>12e2db37-ff7b-424c-b825-c2609311dae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[4]/div</value>
+      <webElementGuid>edac0b17-f1a5-41c1-9501-a58b6de0efcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[2]</value>
+      <webElementGuid>980399d4-5418-4208-a535-dbf1c5930b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Pencarian Dosen'])[2]/following::div[4]</value>
+      <webElementGuid>fd0da042-c61f-4feb-9914-6fad736f0e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div</value>
+      <webElementGuid>46e9b88d-fad5-41b8-81ee-afb38cd6e55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DosenNamaPerguruan TinggiProgram StudiAksiEDI TEDIAKADEMI SEKRETARI DAN MANAJEMEN ARIYANTIMANAJEMEN ADMINISTRASILihat DetailTEDI KUSTANDIUNIVERSITAS MUHAMMADIYAH CIREBONMANAJEMENLihat DetailTEDI KURNIADIUNIVERSITAS PERTAHANANKIMIALihat DetailTEDI HARTOYOUNIVERSITAS SILIWANGIAGRIBISNISLihat DetailTEDIPOLTEKKES KEMENKES PALEMBANGFARMASILihat DetailTEDI LESMANA MARSELINOUNIVERSITAS KALBISINFORMATIKALihat DetailTEDI RUSTENDIUNIVERSITAS SILIWANGIAKUNTANSILihat DetailTEDI KUSNADIUNIVERSITAS BANTENMANAJEMENLihat DetailTEDI ERVIANTONOUNIVERSITAS UDAYANAILMU POLITIKLihat DetailTEDI PURWANTOUNIVERSITAS PAMULANGTEKNIK INFORMATIKALihat Detail1 dari10' or . = 'DosenNamaPerguruan TinggiProgram StudiAksiEDI TEDIAKADEMI SEKRETARI DAN MANAJEMEN ARIYANTIMANAJEMEN ADMINISTRASILihat DetailTEDI KUSTANDIUNIVERSITAS MUHAMMADIYAH CIREBONMANAJEMENLihat DetailTEDI KURNIADIUNIVERSITAS PERTAHANANKIMIALihat DetailTEDI HARTOYOUNIVERSITAS SILIWANGIAGRIBISNISLihat DetailTEDIPOLTEKKES KEMENKES PALEMBANGFARMASILihat DetailTEDI LESMANA MARSELINOUNIVERSITAS KALBISINFORMATIKALihat DetailTEDI RUSTENDIUNIVERSITAS SILIWANGIAKUNTANSILihat DetailTEDI KUSNADIUNIVERSITAS BANTENMANAJEMENLihat DetailTEDI ERVIANTONOUNIVERSITAS UDAYANAILMU POLITIKLihat DetailTEDI PURWANTOUNIVERSITAS PAMULANGTEKNIK INFORMATIKALihat Detail1 dari10')]</value>
+      <webElementGuid>d56f8dac-deed-4bb3-97d4-808387bfc4a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

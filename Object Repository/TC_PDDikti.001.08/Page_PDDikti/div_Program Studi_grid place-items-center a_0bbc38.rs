@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Program Studi_grid place-items-center a_0bbc38</name>
+   <tag></tag>
+   <elementGuidId>bfd814bf-7c8d-4730-8dbe-fa10c88c4222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div/div/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>214bc792-d23e-492b-ad96-d65f5bb6e134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid place-items-center absolute top-2/4 right-2 pt-px w-5 h-5 text-blue-gray-400 rotate-0 -translate-y-2/4 transition-all</value>
+      <webElementGuid>f56020d7-f6c5-42db-a171-43df29329ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;max-w-7xl flex justify-center mx-auto&quot;]/div[@class=&quot;px-1 md:px-6 lg:px-16 md:w-11/12 w-full&quot;]/div[@class=&quot;flex shadow-shadow-2 rounded-2xl custom-ul-material-tailwind&quot;]/div[@class=&quot;custom-width-material-tailwind rounded-s-2xl relative hidden flex-row items-center justify-center md:flex w-1/5 bg-gradient-to-r from-linear-1-1 to-linear-1-2 cursor-pointer focus:outline-none border-none&quot;]/div[@class=&quot;relative w-full min-w-[200px] h-10&quot;]/button[@class=&quot;peer w-full h-full bg-transparent text-left outline-0 focus:outline-0 disabled:bg-blue-gray-50 disabled:border-0 transition-all border px-3 py-2.5 rounded-[7px] border-[var(--orange)] rounded-[var(--secondary-select)] pb-[42px] text-lg font-medium font-inter text-black border-none focus:border-none active:border-none cursor-pointer outline-none&quot;]/div[@class=&quot;grid place-items-center absolute top-2/4 right-2 pt-px w-5 h-5 text-blue-gray-400 rotate-0 -translate-y-2/4 transition-all&quot;]</value>
+      <webElementGuid>e96e7317-5165-4604-899f-99d2c3a773ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div/div/div/div/div/button/div</value>
+      <webElementGuid>d5452b5d-e58f-47a6-a415-ec93e6341418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Studi'])[1]/following::div[1]</value>
+      <webElementGuid>41b24abd-2095-49c5-83fa-fdd539c1ae60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::div[11]</value>
+      <webElementGuid>25194292-1752-46c5-bdcb-02a304bd448e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada kendala terkait data Pendidikan Tinggi?'])[1]/preceding::div[28]</value>
+      <webElementGuid>20b36e1a-52f3-4ddc-ac5b-80c305ac0fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='di sini'])[1]/preceding::div[28]</value>
+      <webElementGuid>ae53e62a-5a96-4670-b52c-e81d0d94237a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>32e6e09c-1fcf-4a8f-9309-0770c33f73eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

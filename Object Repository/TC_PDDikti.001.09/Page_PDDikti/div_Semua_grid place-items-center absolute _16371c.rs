@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Semua_grid place-items-center absolute _16371c</name>
+   <tag></tag>
+   <elementGuidId>15e17a8a-e98b-4a0a-a7e1-193c4042dc75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/div/div/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4afe2c77-717c-427e-b3d2-96cee417e766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid place-items-center absolute top-2/4 right-2 pt-px w-5 h-5 text-blue-gray-400 rotate-0 -translate-y-2/4 transition-all</value>
+      <webElementGuid>073270ad-839c-462c-a753-455ecf64086f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;w-full px-3 mt-[-40px]&quot;]/div[@class=&quot;max-w-7xl flex justify-center mx-auto&quot;]/div[@class=&quot;px-1 md:px-6 lg:px-16 md:w-11/12 w-full&quot;]/div[@class=&quot;flex shadow-shadow-2 rounded-2xl custom-ul-material-tailwind&quot;]/div[@class=&quot;custom-width-material-tailwind rounded-s-2xl relative hidden flex-row items-center justify-center md:flex w-1/5 bg-gradient-to-r from-linear-1-1 to-linear-1-2 cursor-pointer focus:outline-none border-none&quot;]/div[@class=&quot;relative w-full min-w-[200px] h-10&quot;]/button[@class=&quot;peer w-full h-full bg-transparent text-left outline-0 focus:outline-0 disabled:bg-blue-gray-50 disabled:border-0 transition-all border px-3 py-2.5 rounded-[7px] border-[var(--orange)] rounded-[var(--secondary-select)] pb-[42px] text-lg font-medium font-inter text-black border-none focus:border-none active:border-none cursor-pointer outline-none&quot;]/div[@class=&quot;grid place-items-center absolute top-2/4 right-2 pt-px w-5 h-5 text-blue-gray-400 rotate-0 -translate-y-2/4 transition-all&quot;]</value>
+      <webElementGuid>805e633a-3eff-4f35-9323-646eaf08f2ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/div/div/div/div/div/button/div</value>
+      <webElementGuid>96ff79f5-2025-4730-af16-c77220984b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/following::div[1]</value>
+      <webElementGuid>a311b4bc-f208-4092-9374-5e42dd5d15e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::div[11]</value>
+      <webElementGuid>3c75716c-ee71-4655-be0d-138fc36acad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada kendala terkait data Pendidikan Tinggi?'])[1]/preceding::div[28]</value>
+      <webElementGuid>09716bf6-3f93-457f-8670-246533f8ed63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='di sini'])[1]/preceding::div[28]</value>
+      <webElementGuid>4c5ff714-91cd-4c93-9104-6a85033de834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>09c3284f-37d7-4575-8edd-4ef20ed5e3f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
